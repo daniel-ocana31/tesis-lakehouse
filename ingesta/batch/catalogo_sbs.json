@@ -1,0 +1,4832 @@
+{
+  "BM-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2311": {
+    "nombre": "Créditos Directos por Sector Económico",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2314": {
+    "nombre": "Créditos Directos y Depósitos por Zona Geográfica",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2321": {
+    "nombre": "Depósitos según Escala de Montos",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2323": {
+    "nombre": "Contratos de Arrendamiento Financiero por Sector Económico y Tipo de Bien",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2305": {
+    "nombre": "Número de Personal",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2201": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2401": {
+    "nombre": "Indicadores Financieros",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2402": {
+    "nombre": "Requerimiento de Patrimonio Efectivo y Ratio de Capital Global",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2306": {
+    "nombre": "Activos y Contingentes Ponderados por Riesgo de Crédito",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2315": {
+    "nombre": "Créditos Directos según Situación",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2334": {
+    "nombre": "Créditos Directos según Tipo de Crédito y Situación",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2309": {
+    "nombre": "Estructura de Créditos Directos e Indirectos según Categoría de Riesgo del Deudor",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-230802": {
+    "nombre": "Estructura de Créditos Directos e Indirectos por Tipo de Crédito y Categoría de Riesgo del Deudor",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2359": {
+    "nombre": "Créditos Directos por Tipo, Modalidad y Moneda",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2362": {
+    "nombre": "Morosidad por tipo de crédito y modalidad",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220512": {
+    "nombre": "Ratios de Morosidad según días de incumplimiento",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2366": {
+    "nombre": "Créditos por Tipo de Garantía",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2336": {
+    "nombre": "Créditos a Actividades Empresariales por Sector Económico",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2369": {
+    "nombre": "Flujo de Créditos Castigados por Tipo de Crédito",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2340": {
+    "nombre": "Ratios de Liquidez",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2318": {
+    "nombre": "Movimiento de los Depósitos",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220513": {
+    "nombre": "Depósitos del Público por Tipo de Depósito y Plazo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-230809": {
+    "nombre": "Ratio de Cobertura de Liquidez",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-234021": {
+    "nombre": "Ratio de Financiación Neta Estable",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2337": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo de Mercado",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2368": {
+    "nombre": "Posición Global en Moneda Extranjera",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2339": {
+    "nombre": "Operaciones Forward en Moneda Extranjera",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2371": {
+    "nombre": "Operaciones Swaps",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2379": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2405": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo Operacional",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2341": {
+    "nombre": "Estructura del Activo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2343": {
+    "nombre": "Estructura de los Créditos Directos por  Modalidad",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2389": {
+    "nombre": "Estructura de los Créditos Directos por Tipo y Modalidad",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2322": {
+    "nombre": "Estructura de los Créditos Indirectos",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2342": {
+    "nombre": "Estructura del Pasivo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2344": {
+    "nombre": "Estructura de los Depósitos por Tipo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2310": {
+    "nombre": "Estructura de los Adeudos y Obligaciones Financieras",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2370": {
+    "nombre": "Estructura del Patrimonio Efectivo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2347": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2390": {
+    "nombre": "Estructura de los Gastos Financieros",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2348": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2365": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2381": {
+    "nombre": "Estructura de Inversiones",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2332": {
+    "nombre": "Ranking de Créditos, Depósitos y Patrimonio",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2333": {
+    "nombre": "Ranking de Créditos Directos por Tipo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2313": {
+    "nombre": "Ranking de Créditos Directos por Modalidad de Operación",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2320": {
+    "nombre": "Ranking de Depósitos por Tipo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2303": {
+    "nombre": "Distribución de Oficinas por Zona Geográfica",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2364": {
+    "nombre": "Cajeros corresponsales y automáticos",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2358": {
+    "nombre": "Créditos Directos y Depósitos por Oficinas",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2349": {
+    "nombre": "Estructura de los Créditos Directos por Departamento",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2350": {
+    "nombre": "Estructura de los Depósitos por Departamento",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2372": {
+    "nombre": "Depósitos por Tipo y Persona",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2373": {
+    "nombre": "Número de Depositantes por Tipo de Depósito",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2391": {
+    "nombre": "Número de Tarjetas de Débito",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-230803": {
+    "nombre": "Número de Deudores según Tipo de Crédito",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2363": {
+    "nombre": "Número de Tarjetas de Crédito por Tipo",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2367": {
+    "nombre": "Nuevos Créditos Hipotecarios para Vivienda",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2392": {
+    "nombre": "Nuevos Créditos a Principales Sectores Económicos",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-230804": {
+    "nombre": "Operaciones con dinero electrónico",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-230805": {
+    "nombre": "Número de cuentas y monto de dinero electrónico",
+    "p": 1,
+    "seccion": "sf",
+    "subseccion": "Banca Múltiple",
+    "formato": "XLS"
+  },
+  "FM-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3208": {
+    "nombre": "Créditos Directos por Sector Económico",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3256": {
+    "nombre": "Depósitos según Escala de Montos",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3202": {
+    "nombre": "Número de Personal",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3254": {
+    "nombre": "Créditos Directos y Depósitos por Zona Geográfica",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3101": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3301": {
+    "nombre": "Indicadores Financieros",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3302": {
+    "nombre": "Requerimiento de Patrimonio Efectivo y Ratio de Capital Global",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3203": {
+    "nombre": "Activos y Contingentes Ponderados por Riesgo de Crédito",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3219": {
+    "nombre": "Créditos Directos según Situación",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3220": {
+    "nombre": "Créditos Directos según Tipo de Crédito y Situación",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3205": {
+    "nombre": "Estructura de Créditos Directos e Indirectos según Categoría de Riesgo del Deudor",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3257": {
+    "nombre": "Morosidad por Tipo de Crédito y Modalidad",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3230": {
+    "nombre": "Ratios de Morosidad Según Días de Incumplimiento",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3221": {
+    "nombre": "Créditos a Actividades Empresariales por Sector Económico",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3234": {
+    "nombre": "Flujo de Créditos Castigados por Tipo de Crédito",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3271": {
+    "nombre": "Estructura de Créditos Directos e Indirectos por Tipo de Crédito y Categoría de Riesgo del Deudor",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3272": {
+    "nombre": "Créditos Directos por Tipo, Modalidad y Moneda",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3273": {
+    "nombre": "Créditos por Tipo de Garantía",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3250": {
+    "nombre": "Ratio de Liquidez",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3211": {
+    "nombre": "Movimiento de los Depósitos",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3251": {
+    "nombre": "Depósitos del Público por Tipo de Depósito y Plazo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-230810": {
+    "nombre": "Ratio de Cobertura de Liquidez",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-230213": {
+    "nombre": "Ratio de Financiación Neta Estable",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3265": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo de Mercado",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3266": {
+    "nombre": "Posición Global en Moneda Extranjera",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3267": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3270": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo Operacional",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3222": {
+    "nombre": "Estructura del Activo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3235": {
+    "nombre": "Estructura de Créditos Directos por Tipo y Modalidad",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3223": {
+    "nombre": "Estructura del Pasivo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3252": {
+    "nombre": "Estructura de Patrimonio Efectivo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3224": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3253": {
+    "nombre": "Estructura de los Gastos Financieros",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3225": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3236": {
+    "nombre": "Estructura de los Créditos Directos por Modalidad",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3237": {
+    "nombre": "Estructura de los Créditos Indirectos",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3238": {
+    "nombre": "Estructura de los Depósitos por Tipo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3239": {
+    "nombre": "Estructura de los Adeudos y Obligaciones Financieras",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3240": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3243": {
+    "nombre": "Ranking de Créditos, Depósitos y Patrimonio",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3244": {
+    "nombre": "Ranking de Créditos Directos por Tipo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3201": {
+    "nombre": "Distribución de Oficinas por Zona Geográfica",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3261": {
+    "nombre": "Cajeros corresponsales y automáticos",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3241": {
+    "nombre": "Créditos Directos y Depósitos por Oficinas",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3228": {
+    "nombre": "Estructura de los Créditos Directos por Departamento",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3259": {
+    "nombre": "Estructura de los Depósitos por Departamento",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3231": {
+    "nombre": "Depósitos por Tipo y Persona",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3232": {
+    "nombre": "Número de Depositantes por Tipo de Depósito",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3260": {
+    "nombre": "Número de Tarjetas de Débito",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3218": {
+    "nombre": "Número de Deudores según Tipo de Crédito",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3242": {
+    "nombre": "Número de Tarjetas de Crédito por Tipo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3233": {
+    "nombre": "Nuevos Créditos Hipotecarios para Vivienda",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3255": {
+    "nombre": "Nuevos Créditos a Principales Sectores Económicos",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3245": {
+    "nombre": "Ranking de Créditos Directos por Modalidad de Operación",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3246": {
+    "nombre": "Ranking de Depósitos por Tipo",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3262": {
+    "nombre": "Operaciones con dinero electrónico",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3263": {
+    "nombre": "Número de cuentas y monto de dinero electrónico",
+    "p": 2,
+    "seccion": "sf",
+    "subseccion": "Empresas Financieras",
+    "formato": "XLS"
+  },
+  "CM-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1203": {
+    "nombre": "Créditos Directos por Sector Económico",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1213": {
+    "nombre": "Créditos Directos y Depósitos por Zona Geográfica",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1211": {
+    "nombre": "Depósitos según Escala de Montos",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1202": {
+    "nombre": "Número de Personal",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1101": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1301": {
+    "nombre": "Indicadores Financieros",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1252": {
+    "nombre": "Requerimiento de patrimonio efectivo y ratio de capital global",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1215": {
+    "nombre": "Activos y Contingentes Ponderados por Riesgo de Crédito",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1230": {
+    "nombre": "Ratios de Morosidad según días de incumplimiento",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1242": {
+    "nombre": "Morosidad por tipo de crédito y modalidad",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1207": {
+    "nombre": "Créditos Directos según Situación",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1228": {
+    "nombre": "Créditos Directos según Tipo de Crédito y Situación",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-120201": {
+    "nombre": "Estructura de Créditos Directos y Contingentes según Categoría de Riesgo del Deudor",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1233": {
+    "nombre": "Estructura de Créditos Directos y Contingentes por Tipo de Crédito y Categoría de Riesgo del Deudor",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1238": {
+    "nombre": "Créditos directos por tipo de garantía",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1216": {
+    "nombre": "Créditos a Actividades Empresariales por Sector Económico",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1253": {
+    "nombre": "Flujo de Créditos Castigados por tipo de Crédito",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1261": {
+    "nombre": "Créditos Directos por Tipo, Modalidad y Moneda",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1208": {
+    "nombre": "Movimiento de los Depósitos",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1244": {
+    "nombre": "Ratios de Liquidez",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-230811": {
+    "nombre": "Ratio de Cobertura de Liquidez",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-120212": {
+    "nombre": "Ratio de Financiación Neta Estable",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1259": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo de Mercado",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1260": {
+    "nombre": "Posición Global en Moneda Extranjera",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1262": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1258": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo Operacional",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1217": {
+    "nombre": "Estructura del Activo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1254": {
+    "nombre": "Estructura de Créditos Directos por Modalidad",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1243": {
+    "nombre": "Créditos Directos por Tipo y Modalidad",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1218": {
+    "nombre": "Estructura del Pasivo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1240": {
+    "nombre": "Estructura de los depósitos por tipo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1219": {
+    "nombre": "Estructura de los Adeudos y Obligaciones Financieras",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1257": {
+    "nombre": "Estructura del Patrimonio Efectivo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1220": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1239": {
+    "nombre": "Estructura de los gastos financieros",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1221": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1248": {
+    "nombre": "Estructura de los Créditos Indirectos",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1249": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1205": {
+    "nombre": "Ranking de Créditos, Depósitos y Patrimonio",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1222": {
+    "nombre": "Ranking de Créditos Directos por Tipo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1255": {
+    "nombre": "Ranking de Créditos Directos por Modalidad de Operación",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1241": {
+    "nombre": "Ranking de depósitos por tipo",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1245": {
+    "nombre": "Depósitos por tipo y persona",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1223": {
+    "nombre": "Estructura de los Créditos Directos por Departamento",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1224": {
+    "nombre": "Estructura de los Depósitos por Departamento",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1234": {
+    "nombre": "Créditos Directos y Depósitos por Oficinas",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1251": {
+    "nombre": "Nuevos Créditos Hipotecarios para Vivienda",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1256": {
+    "nombre": "Nuevos Créditos a Principales Sectores Económicos",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1231": {
+    "nombre": "Número de Deudores según Tipo de Crédito",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1250": {
+    "nombre": "Número de Depositantes  por Tipo de Depósito",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1201": {
+    "nombre": "Distribución de Oficinas por Zona Geográfica",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1236": {
+    "nombre": "Cajeros corresponsales y automáticos",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1235": {
+    "nombre": "Número de tarjetas de crédito y débito",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1300": {
+    "nombre": "Operaciones con dinero electrónico",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-1310": {
+    "nombre": "Número de cuentas y monto de dinero electrónico",
+    "p": 3,
+    "seccion": "sf",
+    "subseccion": "Cajas Municipales",
+    "formato": "XLS"
+  },
+  "RM-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2203": {
+    "nombre": "Créditos Directos por Sector Económico",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2213": {
+    "nombre": "Créditos Directos y Depósitos por Zona Geográfica",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2211": {
+    "nombre": "Depósitos según Escala de Montos",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2202": {
+    "nombre": "Número de Personal",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2101": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2301": {
+    "nombre": "Indicadores Financieros",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2257": {
+    "nombre": "Requerimiento de patrimonio efectivo y ratio de capital global",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2215": {
+    "nombre": "Activos y Contingentes Ponderados por Riesgo de Crédito",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2230": {
+    "nombre": "Ratios de Morosidad según días de incumplimiento",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2247": {
+    "nombre": "Morosidad por tipo de crédito y modalidad",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2207": {
+    "nombre": "Créditos Directos según Situación",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2228": {
+    "nombre": "Créditos Directos según Tipo de Crédito y Situación",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-220201": {
+    "nombre": "Estructura de Créditos Directos y Contingentes según Categoría de Riesgo del Deudor",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2233": {
+    "nombre": "Estructura de Créditos Directos y Contingentes por Tipo de Crédito y Categoría de Riesgo del Deudor",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2243": {
+    "nombre": "Créditos directos por tipo de garantía",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2216": {
+    "nombre": "Créditos a Actividades Empresariales por Sector Económico",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2258": {
+    "nombre": "Flujo de Créditos Castigados por tipo de Crédito",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2264": {
+    "nombre": "Créditos Directos por Tipo, Modalidad y Moneda",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-230812": {
+    "nombre": "Ratio de Cobertura de Liquidez",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-230820": {
+    "nombre": "Ratio de Financiación Neta Estable",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2208": {
+    "nombre": "Movimiento de los Depósitos",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2249": {
+    "nombre": "Ratios de Liquidez",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-2369": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo de Mercado",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2370": {
+    "nombre": "Posición Global en Moneda Extranjera",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2371": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2263": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo Operacional",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2217": {
+    "nombre": "Estructura del Activo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2259": {
+    "nombre": "Estructura de Créditos Directos por Modalidad",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2248": {
+    "nombre": "Créditos Directos por Tipo y Modalidad",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2218": {
+    "nombre": "Estructura del Pasivo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2245": {
+    "nombre": "Estructura de los depósitos por tipo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2219": {
+    "nombre": "Estructura de los Adeudos y Obligaciones Financieras",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2262": {
+    "nombre": "Estructura del Patrimonio Efectivo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2220": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2244": {
+    "nombre": "Estructura de los gastos financieros",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2221": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2253": {
+    "nombre": "Estructura de los Créditos Indirectos",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2254": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2205": {
+    "nombre": "Ranking de Créditos, Depósitos y Patrimonio",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2222": {
+    "nombre": "Ranking de Créditos Directos por Tipo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2260": {
+    "nombre": "Ranking de Créditos Directos por Modalidad de Operación",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2246": {
+    "nombre": "Ranking de depósitos por tipo",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2250": {
+    "nombre": "Depósitos por tipo y persona",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2223": {
+    "nombre": "Estructura de los Créditos Directos por Departamento",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2224": {
+    "nombre": "Estructura de los Depósitos por Departamento",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2234": {
+    "nombre": "Créditos Directos y Depósitos por Oficinas",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2256": {
+    "nombre": "Nuevos Créditos Hipotecarios para Vivienda",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2261": {
+    "nombre": "Nuevos Créditos a Principales Sectores Económicos",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2231": {
+    "nombre": "Número de Deudores según Tipo de Crédito",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2255": {
+    "nombre": "Número de Depositantes  por Tipo de Depósito",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2201": {
+    "nombre": "Distribución de Oficinas por Zona Geográfica",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2241": {
+    "nombre": "Cajeros corresponsales y automáticos",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2240": {
+    "nombre": "Número de tarjetas de crédito y débito",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-1290": {
+    "nombre": "Operaciones con dinero electrónico",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-1291": {
+    "nombre": "Número de cuentas y monto de dinero electrónico",
+    "p": 4,
+    "seccion": "sf",
+    "subseccion": "Cajas Rurales",
+    "formato": "XLS"
+  },
+  "EM-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4202": {
+    "nombre": "Créditos Directos por Sector Económico",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4203": {
+    "nombre": "Créditos Directos por Zona Geográfica",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4206": {
+    "nombre": "Número de Personal",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4103": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4301": {
+    "nombre": "Indicadores Financieros",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4241": {
+    "nombre": "Requerimiento de patrimonio efectivo y ratio de capital global",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4207": {
+    "nombre": "Activos y Contingentes Ponderados por Riesgo de Crédito",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4225": {
+    "nombre": "Ratios de Morosidad según días de incumplimiento",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4234": {
+    "nombre": "Morosidad por tipo de crédito y modalidad",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4208": {
+    "nombre": "Créditos Directos según Situación",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4223": {
+    "nombre": "Créditos Directos según Tipo de Crédito y Situación",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4201": {
+    "nombre": "Estructura de Créditos Directos y Contingentes según Categoría de Riesgo del Deudor",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4227": {
+    "nombre": "Estructura de Créditos Directos y Contingentes por Tipo de Crédito y Categoría de Riesgo del Deudor",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4232": {
+    "nombre": "Estructura de los Créditos directos según tipo de Garantía",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4210": {
+    "nombre": "Créditos a Actividades Empresariales por Sector Económico",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4242": {
+    "nombre": "Flujo de Créditos Castigados por tipo de Crédito",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4253": {
+    "nombre": "Créditos Directos por Tipo, Modalidad y Moneda",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4211": {
+    "nombre": "Flujo Crediticio",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4251": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo de Mercado",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4252": {
+    "nombre": "Posición Global en Moneda Extranjera",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4254": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4247": {
+    "nombre": "Requerimiento de Patrimonio Efectivo por Riesgo Operacional",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4212": {
+    "nombre": "Estructura del Activo",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4243": {
+    "nombre": "Estructura de Créditos Directos por Modalidad",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4235": {
+    "nombre": "Créditos Directos por Tipo y Modalidad",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4213": {
+    "nombre": "Estructura del Pasivo",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4214": {
+    "nombre": "Estructura de los Adeudos y Obligaciones Financieras",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4246": {
+    "nombre": "Estructura del Patrimonio Efectivo",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4215": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4233": {
+    "nombre": "Estructura de los gastos financieros",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4216": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4238": {
+    "nombre": "Estructura de los Créditos Indirectos",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4239": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4217": {
+    "nombre": "Ranking de Créditos y Patrimonio",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4218": {
+    "nombre": "Ranking de Créditos Directos por Tipo",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4244": {
+    "nombre": "Ranking de Créditos Directos por Modalidad de Operación",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4219": {
+    "nombre": "Estructura de los Créditos Directos por Departamento",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4228": {
+    "nombre": "Créditos Directos por Oficinas",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4240": {
+    "nombre": "Nuevos Créditos Hipotecarios para Vivienda",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4245": {
+    "nombre": "Nuevos Créditos a Principales Sectores Económicos",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4205": {
+    "nombre": "Distribución de Oficinas por Zona Geográfica",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4230": {
+    "nombre": "Cajeros corresponsales y automáticos",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4229": {
+    "nombre": "Número de tarjetas de crédito y débito",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4226": {
+    "nombre": "Número de Deudores según Tipo de Crédito",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4260": {
+    "nombre": "Operaciones con dinero electrónico",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "C-4261": {
+    "nombre": "Número de cuentas y monto de dinero electrónico",
+    "p": 5,
+    "seccion": "sf",
+    "subseccion": "Empresas de Créditos",
+    "formato": "XLS"
+  },
+  "B-4203": {
+    "nombre": "Contratos de Arrendamiento Financiero por Sector Económico y Tipo de Bien",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4101": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas por Empresa de Arrendamiento Financiero",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4205": {
+    "nombre": "Indicadores Financieros por Empresa de Arrendamiento Financiero",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4206": {
+    "nombre": "Estructura de los Créditos Directos según Situación por Empresa de Arrendamiento Financiero",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4207": {
+    "nombre": "Estructura de los Créditos Directos y Contingentes según Categoría de Riesgo del Deudor",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4208": {
+    "nombre": "Contratos de Arrendamiento Financiero por Sector Económico",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4209": {
+    "nombre": "Contratos de Arrendamiento Financiero según Tipo de Bien",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4210": {
+    "nombre": "Estructura del Activo",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4211": {
+    "nombre": "Estructura del Pasivo",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4212": {
+    "nombre": "Estructura de los Ingresos Financieros",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4213": {
+    "nombre": "Estructura de los Gastos de Administración",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "B-4217": {
+    "nombre": "Estructura de los Gastos Financieros",
+    "p": 7,
+    "seccion": "sf",
+    "subseccion": "Empresas de Arrendamiento Financiero",
+    "formato": "XLS"
+  },
+  "G-1101": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 8,
+    "seccion": "sf",
+    "subseccion": "Empresas Afianzadoras y de Garantías",
+    "formato": "XLS"
+  },
+  "FID-1": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 9,
+    "seccion": "sf",
+    "subseccion": "Empresas Fiduciarias",
+    "formato": "XLS"
+  },
+  "FID-6101": {
+    "nombre": "Activos, Pasivos e Ingresos por Fideicomisos",
+    "p": 9,
+    "seccion": "sf",
+    "subseccion": "Empresas Fiduciarias",
+    "formato": "XLS"
+  },
+  "ETF-7201": {
+    "nombre": "Transferencias internacionales recibidas y enviadas por país",
+    "p": 11,
+    "seccion": "sf",
+    "subseccion": "ETF - Fondos de Inversión",
+    "formato": "XLS"
+  },
+  "ETF-7202": {
+    "nombre": "Estado de Situación Financiera y Estados de Resultados",
+    "p": 11,
+    "seccion": "sf",
+    "subseccion": "ETF - Fondos de Inversión",
+    "formato": "XLS"
+  },
+  "EE-00101": {
+    "nombre": "Boletín Mensual",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5102": {
+    "nombre": "Balance General y Estado de Ganancias y Perdidas del Banco de la Nacion",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5103": {
+    "nombre": "Balance General y Estado de Ganancias y Perdidas de Cofide",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5104": {
+    "nombre": "Balance General y Estado de Ganancias y Perdidas de Agrobanco",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5105": {
+    "nombre": "Balance General y Estado de Ganancias y Perdidas de Fondo MiVivienda",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5201": {
+    "nombre": "Indicadores de las Entidades Estatales",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5204": {
+    "nombre": "Requerimiento de Patrimonio Efectivo y Ratio de Capital Global",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5203": {
+    "nombre": "Créditos de consumo según situación",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5205": {
+    "nombre": "Créditos directos según tipo de crédito y situación",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5206": {
+    "nombre": "Estructura de Créditos Directos e Indirectos según Categoría de Riesgo del Deudor",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "R-0001": {
+    "nombre": "Ratio de cobertura de liquidez",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "R-0010": {
+    "nombre": "Ratio de Financiación Neta Estable",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "R-0002": {
+    "nombre": "Ganancias en Riesgo y Valor Patrimonial en Riesgo",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5202": {
+    "nombre": "Estructura de Fideicomisos y Comisiones de Confianza",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "E-5302": {
+    "nombre": "Estructura del Patrimonio Efectivo",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5215": {
+    "nombre": "Créditos Directos y Depósitos por Oficinas",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "B-5216": {
+    "nombre": "Cajeros Automáticos y Corresponsales",
+    "p": 12,
+    "seccion": "sf",
+    "subseccion": "Entidades Estatales",
+    "formato": "XLS"
+  },
+  "SF-2103": {
+    "nombre": "Evolución del Sistema Financiero (desde setiembre 2008)",
+    "p": 13,
+    "seccion": "sf",
+    "subseccion": "Evolución del Sistema Financiero",
+    "formato": "PDF"
+  },
+  "B-2101": {
+    "nombre": "Evolución de la Banca Múltiple (enero 1999 - agosto 2008)",
+    "p": 13,
+    "seccion": "sf",
+    "subseccion": "Evolución del Sistema Financiero",
+    "formato": "PDF"
+  },
+  "C-1104": {
+    "nombre": "Evolución de las Instituciones Microfinancieras No Bancarias (marzo 2001 - junio 2008)",
+    "p": 13,
+    "seccion": "sf",
+    "subseccion": "Evolución del Sistema Financiero",
+    "formato": "PDF"
+  },
+  "SF-2101": {
+    "nombre": "Carpeta de Cuadros Estadísticos - Sistema Financiero",
+    "p": 14,
+    "seccion": "sf",
+    "subseccion": "Presentación del Sistema Financiero",
+    "formato": "XLS"
+  },
+  "SF-2102": {
+    "nombre": "Carpeta de Gráficos Estadísticos - Sistema Financiero",
+    "p": 14,
+    "seccion": "sf",
+    "subseccion": "Presentación del Sistema Financiero",
+    "formato": "XLS"
+  },
+  "SF-210201": {
+    "nombre": "Nota Metodológica",
+    "p": 14,
+    "seccion": "sf",
+    "subseccion": "Presentación del Sistema Financiero",
+    "formato": "XLS"
+  },
+  "B-6009": {
+    "nombre": "Tipo de Cambio Contable al Cierre del Mes",
+    "p": 30,
+    "seccion": "sf",
+    "subseccion": "Carpeta del Sistema Financiero",
+    "formato": "XLS"
+  },
+  "B-6020": {
+    "nombre": "Tasa de Interés Promedio del Sistema Financiero para Créditos a la MicroEmpresa",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6004": {
+    "nombre": "Tasa de Interés Activa de Mercado",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6005": {
+    "nombre": "Tasa de Interés Pasiva de Mercado",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6006": {
+    "nombre": "Tasas de Interés Anuales para Valorización de Forwards en Moneda Extranjera",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6007": {
+    "nombre": "Tasa de Interes Legal Efectiva",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6010": {
+    "nombre": "Tipo de Cambio Contable del Dólar Norteamericano",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6011": {
+    "nombre": "Tasa Activa y Pasiva sobre Flujos",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6012": {
+    "nombre": "Tasa Pasiva por Tipo de Depósito",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6013": {
+    "nombre": "Tasa Activa por Tipo de Crédito",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6014": {
+    "nombre": "Tasa Activa por Tipo de Producto y Empresa",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6015": {
+    "nombre": "Tasa Pasiva por Tipo de Producto y Empresa",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6016": {
+    "nombre": "Determinantes del Costo de Préstamos Hipotecarios",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6017": {
+    "nombre": "Determinantes del Costo de Créditos de Consumo",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6018": {
+    "nombre": "Determinantes del Costo de Tarjetas de Crédito",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6008": {
+    "nombre": "Tasa de Interes Legal Laboral",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "B-6003": {
+    "nombre": "Tasas de Interés Activas y Pasivas de Mercado",
+    "p": 42,
+    "seccion": "sf",
+    "subseccion": "Indicadores Financieros Consolidados",
+    "formato": "XLS"
+  },
+  "SC-0002": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 67,
+    "seccion": "sf",
+    "subseccion": "Indicadores de Inclusión Financiera",
+    "formato": "XLS"
+  },
+  "SC-0003": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 67,
+    "seccion": "sf",
+    "subseccion": "Indicadores de Inclusión Financiera",
+    "formato": "XLS"
+  },
+  "SC-0004": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 67,
+    "seccion": "sf",
+    "subseccion": "Indicadores de Inclusión Financiera",
+    "formato": "XLS"
+  },
+  "SC-0005": {
+    "nombre": "Balance General y Estado de Ganancias y Pérdidas",
+    "p": 67,
+    "seccion": "sf",
+    "subseccion": "Indicadores de Inclusión Financiera",
+    "formato": "XLS"
+  },
+  "B-3401": {
+    "nombre": "1993-2000",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-3402": {
+    "nombre": "2001-2004",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-3403": {
+    "nombre": "2005-2008",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-3404": {
+    "nombre": "2009-2012",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-3405": {
+    "nombre": "2013-2019",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240100": {
+    "nombre": "Nota Aclaratoria de Series Históricas",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240104": {
+    "nombre": "Estados Financieros (2005-Feb 2009)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240101": {
+    "nombre": "Indicadores Financieros (1993-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-130101": {
+    "nombre": "Indicadores Financieros (1994-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-230101": {
+    "nombre": "Indicadores Financieros (1994-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-430101": {
+    "nombre": "Indicadores Financieros (1997-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240201": {
+    "nombre": "Estadísticas  (2001-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-130201": {
+    "nombre": "Variables (2001-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-230201": {
+    "nombre": "Variables (2001-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "C-430201": {
+    "nombre": "Variables (2001-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-240202": {
+    "nombre": "Créditos (2001-...)",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220432": {
+    "nombre": "Banco Continental",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220445": {
+    "nombre": "Interbank",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220434": {
+    "nombre": "Banco de Crédito del Perú",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220436": {
+    "nombre": "Banco  Financiero",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220433": {
+    "nombre": "Banco de Comercio",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220440": {
+    "nombre": "Banco Sudamericano",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220435": {
+    "nombre": "Banco del Trabajo",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220444": {
+    "nombre": "Citibank",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220437": {
+    "nombre": "Banco Interamericano de Finanzas",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220442": {
+    "nombre": "BankBoston",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220446": {
+    "nombre": "Mibanco",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220443": {
+    "nombre": "BNP Paribas - Andes",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220441": {
+    "nombre": "Scotiabank",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220439": {
+    "nombre": "Banco Standard Chartered",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220438": {
+    "nombre": "Banco Santander Central Hispano",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-2202": {
+    "nombre": "Total Banca Múltiple",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220560": {
+    "nombre": "Banco Latino",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220561": {
+    "nombre": "Banco Serbanco",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220562": {
+    "nombre": "Banco Lima",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220563": {
+    "nombre": "Banco Republica",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220564": {
+    "nombre": "Banco NBK",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220565": {
+    "nombre": "Banco Mercantil",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220566": {
+    "nombre": "Banco Libertador",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220567": {
+    "nombre": "Banco Banex",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220568": {
+    "nombre": "Banco Progreso",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220569": {
+    "nombre": "Banco Solventa",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220570": {
+    "nombre": "Banco Nuevo Mundo",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220571": {
+    "nombre": "Banco Bancosur",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220572": {
+    "nombre": "Banco País",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220573": {
+    "nombre": "Banco Orión.",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220587": {
+    "nombre": "Banco Deutsche Bank",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220596": {
+    "nombre": "Banco  Cencosud",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220559": {
+    "nombre": "Banco Falabella",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220580": {
+    "nombre": "Banco Santander",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220582": {
+    "nombre": "Banco Ripley",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220584": {
+    "nombre": "Banco Azteca",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-220558": {
+    "nombre": "HSBC Bank Perú",
+    "p": 17,
+    "seccion": "historico",
+    "subseccion": "Histórico Banca Múltiple",
+    "formato": "XLS"
+  },
+  "B-3801": {
+    "nombre": "1993-2000",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3802": {
+    "nombre": "2001-2004",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3803": {
+    "nombre": "2005-2008",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3804": {
+    "nombre": "2009-2012",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-3805": {
+    "nombre": "2013-2019",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "F-240102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "F-240103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "F-240104": {
+    "nombre": "Estados Financieros (2005-...)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "F-240105": {
+    "nombre": "Estados Financieros (Marzo 2009-... )",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220447": {
+    "nombre": "Financiera CMR (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220448": {
+    "nombre": "Financiera Cordillera (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220449": {
+    "nombre": "Financiera Solución (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220450": {
+    "nombre": "Financiera Daewoo (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220451": {
+    "nombre": "Volvo Finance (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220452": {
+    "nombre": "Total Empresas Financieras (1993-2000)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220531": {
+    "nombre": "Total Empresas Financieras (Marzo 2009-... )",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220532": {
+    "nombre": "Financiera CMR",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220533": {
+    "nombre": "Financiera Cordillera",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220534": {
+    "nombre": "Financiera Daewoo",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220535": {
+    "nombre": "Financiera TFC S.A.",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220536": {
+    "nombre": "Financiera Solución",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220574": {
+    "nombre": "Financiera San Pedro",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220575": {
+    "nombre": "Financiera Peruana",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220576": {
+    "nombre": "Financiera Finsur",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220577": {
+    "nombre": "Financiera Nacional.",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220578": {
+    "nombre": "Financiera Edyficar",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220579": {
+    "nombre": "Crediscotia Financiera",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220588": {
+    "nombre": "Financiera Crear",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220589": {
+    "nombre": "Financiera Confianza",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220590": {
+    "nombre": "Financiera Efectiva",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220591": {
+    "nombre": "Financiera Universal",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220592": {
+    "nombre": "Financiera UNO",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220593": {
+    "nombre": "Amerika Financiera",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220594": {
+    "nombre": "Mitsui Auto Finance",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220598": {
+    "nombre": "Financiera  Proempresa",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "B-220599": {
+    "nombre": "Total Empresas Financieras(Enero 2013-...)",
+    "p": 18,
+    "seccion": "historico",
+    "subseccion": "Histórico Empresas Financieras",
+    "formato": "XLS"
+  },
+  "AF-24102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "AF-24103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "AF-24104": {
+    "nombre": "Estados Financieros (2005-...)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220453": {
+    "nombre": "Credileasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220454": {
+    "nombre": "Wiese Sudameris Leasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220455": {
+    "nombre": "Citileasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220456": {
+    "nombre": "Latino Leasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220457": {
+    "nombre": "America Leasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220458": {
+    "nombre": "Leasing Total (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220459": {
+    "nombre": "Mitsui Masa Leasing (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220460": {
+    "nombre": "Total Empresas de Arrendamiento Financiero (1993-2000)",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220537": {
+    "nombre": "Credileasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220538": {
+    "nombre": "Wiese Sudameris Leasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220539": {
+    "nombre": "Citileasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220540": {
+    "nombre": "Latino Leasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220541": {
+    "nombre": "America Leasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220542": {
+    "nombre": "Leasing Total",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220543": {
+    "nombre": "Mitsui Masa Leasing",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-220544": {
+    "nombre": "Total Empresas de Arrendamiento Financiero",
+    "p": 19,
+    "seccion": "historico",
+    "subseccion": "Series Históricas - Notas Aclaratorias",
+    "formato": "XLS"
+  },
+  "B-3501": {
+    "nombre": "1994-2000",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-3502": {
+    "nombre": "2001-2004",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-3503": {
+    "nombre": "2005-2012",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-3504": {
+    "nombre": "2013-...",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-240102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-240103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-240104": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "C-240105": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220461": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Arequipa",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220462": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Cusco",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220463": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Chincha",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220464": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Del Santa",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220465": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Huancayo",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220466": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Ica",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220467": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Maynas",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220468": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Paita",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220469": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Pisco",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220470": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Piura",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220471": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Sullana",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220472": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Tacna",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220473": {
+    "nombre": "Caja Municipal de Ahorro y Crédito Trujillo",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220474": {
+    "nombre": "Sistema de Cajas Municipales de Ahorro y Crédito",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220475": {
+    "nombre": "Caja Municipal de Crédito Popular de Lima",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-220476": {
+    "nombre": "Sistema de Cajas Municipales",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-300001": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-300002": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-300003": {
+    "nombre": "Estados Financieros (2013-...)",
+    "p": 20,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Municipales",
+    "formato": "XLS"
+  },
+  "B-3601": {
+    "nombre": "1994-2000",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-3602": {
+    "nombre": "2001-2004",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-3603": {
+    "nombre": "2005-2012",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-3604": {
+    "nombre": "2013-...",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-240102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-240103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-240104": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-240105": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "R-240106": {
+    "nombre": "Estados Financieros (2013-...)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-02242": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-02243": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-02244": {
+    "nombre": "Estados Financieros (2013-...)",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220482": {
+    "nombre": "Caja Rural de Ahorro y Crédito Del Sur",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220483": {
+    "nombre": "Caja Rural de Ahorro y Crédito De la Región San Martín",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220484": {
+    "nombre": "Caja Rural de Ahorro y Crédito Credinka",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220485": {
+    "nombre": "Caja Rural de Ahorro y Crédito Selva Central",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220486": {
+    "nombre": "Caja Rural de Ahorro y Crédito Chavín",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220487": {
+    "nombre": "Caja Rural de Ahorro y Crédito Nor Peru",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220488": {
+    "nombre": "Caja Rural de Ahorro y Crédito Cajamarca",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220489": {
+    "nombre": "Caja Rural de Ahorro y Crédito Corfinor",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220490": {
+    "nombre": "Caja Rural de Ahorro y Crédito Cruz de Chalpón",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220491": {
+    "nombre": "Caja Rural de Ahorro y Crédito Profinanzas",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220492": {
+    "nombre": "Caja Rural de Ahorro y Crédito Mantaro",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220493": {
+    "nombre": "Caja Rural de Ahorro y Crédito Majes",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220494": {
+    "nombre": "Caja Rural de Ahorro y Crédito Selva Peruana",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220495": {
+    "nombre": "Caja Rural de Ahorro y Crédito Ucayali",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220496": {
+    "nombre": "Caja Rural de Ahorro y Crédito Los Andes",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220497": {
+    "nombre": "Caja Rural de Ahorro y Crédito Prymera",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220498": {
+    "nombre": "Sistema de Cajas Rurales de Ahorro y Crédito",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2235": {
+    "nombre": "Caja Rural de Ahorro y Crédito Cruz de Chalpón",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "C-2236": {
+    "nombre": "Caja Rural de Ahorro y Crédito Los Andes",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220481": {
+    "nombre": "Caja Rural de Ahorro y Crédito Valle del Río Apurímac y Ene",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220480": {
+    "nombre": "Caja Rural de Ahorro y Crédito Tumbay",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220478": {
+    "nombre": "Caja Rural de Ahorro y Crédito Los Libertadores de Ayacucho",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-220479": {
+    "nombre": "Caja Rural de Ahorro y Crédito Señor de Luren",
+    "p": 21,
+    "seccion": "historico",
+    "subseccion": "Histórico Cajas Rurales",
+    "formato": "XLS"
+  },
+  "B-3701": {
+    "nombre": "1997-2000",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-3702": {
+    "nombre": "2001-2004",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-3703": {
+    "nombre": "2005-2012",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-3704": {
+    "nombre": "2013-...",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "E-240102": {
+    "nombre": "Estados Financieros (1993-2000)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "E-240103": {
+    "nombre": "Estados Financieros (2001-2004)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "E-240104": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "E-240105": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "E-240106": {
+    "nombre": "Estados Financieros (2013-...)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220499": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Credinpet",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220500": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Proempresa",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220501": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Edyficar",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220502": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Crear Arequipa",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220503": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Crear Tacna",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220504": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Nueva Visión",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220505": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Confianza",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220506": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Raíz",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220507": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Solidaridad",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220508": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Crear Cusco",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220509": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Credivisión",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220510": {
+    "nombre": "Sistema de Entidades de Desarrollo a la Pequeña y Microempresa",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220519": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Crear Trujillo",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220520": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Pronegocios",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220521": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Camco Piura",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "B-220522": {
+    "nombre": "Entidad de Desarrollo a la Pequeña y Microempresa Alternativa",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "C-4231": {
+    "nombre": "Estados Financieros (2005-2011)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "C-4249": {
+    "nombre": "Estados Financieros (2012-...)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "C-4250": {
+    "nombre": "Estados Financieros (2013-...)",
+    "p": 22,
+    "seccion": "historico",
+    "subseccion": "Histórico Edpymes",
+    "formato": "XLS"
+  },
+  "S-367": {
+    "nombre": "Boletín Mensual",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-203": {
+    "nombre": "Estado de Situación Financiera y Estado de Resultados por Empresa de Seguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-301": {
+    "nombre": "Cifras consideradas en la Elaboración de los Indicadores",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-302": {
+    "nombre": "Indicadores de las Empresas de Seguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-342": {
+    "nombre": "Ranking de Primas por Ramos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-343": {
+    "nombre": "Ranking de Primas de Ramos Generales y Accidentes y Enfermedades",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-344": {
+    "nombre": "Ranking de Primas de Ramos de Vida y Previsionales",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-345": {
+    "nombre": "Primas según Ramos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-401": {
+    "nombre": "Primas de Seguros Netas, Cedidas y Retenidas según Riesgos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-402": {
+    "nombre": "Siniestros de Primas de Seguros Netas, Cedidas y Retenidas según Riesgos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-403": {
+    "nombre": "Indice de Siniestralidad Directa y Retenida según Riesgos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-404": {
+    "nombre": "Rentas Vitalicias de Jubilación  por Tipo de Pensión, Modalidad  de Pensión y AFP",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-405": {
+    "nombre": "Rentas Vitalicias de Invalidez por Tipo de Pensión, Modalidad  de Pensión y AFP",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-406": {
+    "nombre": "Rentas Vitalicias de Sobrevivencia por Tipo de Pensión, Modalidad de Pensión y AFP",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-399": {
+    "nombre": "Número de asegurados, Primas y Siniestros de Microseguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-487": {
+    "nombre": "Reservas Técnicas por Empresa de Seguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-488": {
+    "nombre": "Reserva de Siniestros Reportados y No Reportados de Primas de Seguros y Primas Cedidas",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-489": {
+    "nombre": "Reservas de Riesgos en curso y reservas matemáticas de vida de Primas de Seguros y Primas Cedidas",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-320": {
+    "nombre": "Reserva para Riesgos Catastróficos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-318": {
+    "nombre": "Patrimonio de Solvencia",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-503": {
+    "nombre": "Patrimonio Efectivo",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-330": {
+    "nombre": "Endeudamiento",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-332": {
+    "nombre": "Requerimientos Patrimoniales",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-3464": {
+    "nombre": "Requerimiento de Patrimonio Efectivo Adicional por Ciclo Económico",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-504": {
+    "nombre": "Tasas para el cálculo de reservas matemáticas a seguros de vida distintos al SPP y SCTR",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-5007": {
+    "nombre": "Tasas para el cálculo de indicadores del Reglamento de Gestión de Activos y Pasivos",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-3621": {
+    "nombre": "Obligaciones Técnicas e Inversiones según Ramos Generales, Vida y Total",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-3622": {
+    "nombre": "Portafolio de Inversiones según Ramos Generales, Vida y Total",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-352": {
+    "nombre": "Inversiones Financieras segun Intención de Compra por Empresa de Seguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-3623": {
+    "nombre": "Inversiones Financieras Aplicadas a la Cobertura de Obligaciones Técnicas de Ramos Generales y de Vida",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-3723": {
+    "nombre": "Inversiones Totales según Rubro Contable por Empresa de Seguros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "C-399": {
+    "nombre": "Primas cedidas por empresas de seguros: según riesgos, países, reaseguradores y corredores.",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-500": {
+    "nombre": "Cúmulos de terremoto por zona geográfica y por empresa.",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-501": {
+    "nombre": "Principales Indicadores de Gestión",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-502": {
+    "nombre": "Estructura de Activos, Pasivos, Primas y Siniestros",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-394": {
+    "nombre": "Tasas de Mercado - Norma de Calce",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-395": {
+    "nombre": "Tasas de Actualización y de Reserva",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-396": {
+    "nombre": "Estadísticas de cotizaciones de Rentas Vitalicias",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-397": {
+    "nombre": "Remuneración Máxima Asegurable, Límite de Gasto de Sepelio y Factores de Actualización de Pensiones en soles",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-420": {
+    "nombre": "Tasas para el cálculo de opciones de pensión - Ley 30425",
+    "p": 25,
+    "seccion": "seguros",
+    "subseccion": "Boletín y Estados Financieros de Seguros",
+    "formato": "XLS"
+  },
+  "S-2102": {
+    "nombre": "Nota Metodológica",
+    "p": 28,
+    "seccion": "seguros",
+    "subseccion": "Carpeta Sistema Asegurador",
+    "formato": "PDF"
+  },
+  "S-2101": {
+    "nombre": "Carpeta de Información del Sistema de Seguros",
+    "p": 28,
+    "seccion": "seguros",
+    "subseccion": "Carpeta Sistema Asegurador",
+    "formato": "PDF"
+  },
+  "S-240100": {
+    "nombre": "Nota Aclaratoria de Series Históricas",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "S-240102": {
+    "nombre": "Estados Financieros (Desde 1996)",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "S-30101": {
+    "nombre": "Indicadores Financieros (Desde 2001)",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220545": {
+    "nombre": "Altas Cumbres",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220546": {
+    "nombre": "Generali Peru",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220547": {
+    "nombre": "Interseguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220548": {
+    "nombre": "Seguros SURA",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205481": {
+    "nombre": "InSur",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220549": {
+    "nombre": "La Positiva",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220550": {
+    "nombre": "Latina",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220551": {
+    "nombre": "Mapfre Perú Vida",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220552": {
+    "nombre": "Mapfre Perú",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220553": {
+    "nombre": "Pacífico Compañía de Seguros y Reaseguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220554": {
+    "nombre": "Pacífico",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220555": {
+    "nombre": "Rímac",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220556": {
+    "nombre": "Secrex",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-220557": {
+    "nombre": "Total Sistema Asegurador",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205452": {
+    "nombre": "BNP Paribas Cardif",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205492": {
+    "nombre": "La Positiva Vida",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205451": {
+    "nombre": "Chubb Seguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205541": {
+    "nombre": "Protecta",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205542": {
+    "nombre": "Rigel",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205543": {
+    "nombre": "HDI Seguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205544": {
+    "nombre": "Ohio National Vida",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2205546": {
+    "nombre": "Vida Cámara",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2206546": {
+    "nombre": "Crecer Seguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2206547": {
+    "nombre": "Avla Perú",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2206548": {
+    "nombre": "Coface",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "B-2206549": {
+    "nombre": "Liberty Seguros",
+    "p": 29,
+    "seccion": "seguros",
+    "subseccion": "Histórico Empresas de Seguros",
+    "formato": "PDF"
+  },
+  "FP-1231": {
+    "nombre": "Boletin Informativo Mensual",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1201": {
+    "nombre": "Número de Afiliados Activos por AFP, Sexo y Rango de Edad",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1343": {
+    "nombre": "Número de Afiliados Activos por AFP, Tipo de Fondo, Sexo y Rango de Edad",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1344": {
+    "nombre": "Evolución del Número de Afiliados Activos por Tipo de Fondo de Pensiones y AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1202": {
+    "nombre": "Número de Afiliados Activos por AFP, Sexo y Edad de Afiliación",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1203": {
+    "nombre": "Número de Afiliados Activos por AFP, Departamento y Sexo",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1349": {
+    "nombre": "Número de Afiliados Activos según procedimiento de Incorporación, Sexo y Rango de Edad",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1350": {
+    "nombre": "Número de Afiliados Activos según Tipo de Comisión por AFP y Rango de Edad",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1351": {
+    "nombre": "Número de Nuevos Afiliados por AFP, Sexo, Departamento, Tipo de Trabajador y Rango de Edad",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1352": {
+    "nombre": "Número de Solicitudes de Traspaso por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1353": {
+    "nombre": "Número y Movimiento de Fondos por Traspasos Efectivos según AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1354": {
+    "nombre": "Número de Cotizantes e Índices de Cotización por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1355": {
+    "nombre": "Solicitudes de Bono de Reconocimiento Presentadas a la ONP por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1208": {
+    "nombre": "Ingresos y Egresos del Fondo de Pensiones por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1213": {
+    "nombre": "Balance General del Fondo de Pensiones por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1356": {
+    "nombre": "Cartera Administrada por AFP, Instrumento Financiero y Tipo de Fondo",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1357": {
+    "nombre": "Cartera Administrada por Moneda y Tipo de Fondo",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1306": {
+    "nombre": "Cartera Administrada por Plazo de Vencimiento",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1216": {
+    "nombre": "Cartera Administrada por Categoría de Riesgo Equivalente",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1358": {
+    "nombre": "Cartera Administrada por Emisor y Actividad Económica",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1325": {
+    "nombre": "Cartera Administrada por Emisor e Instrumento Financiero",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1217-01": {
+    "nombre": "Inversión de las Carteras Administradas en Infraestructura",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1217-1": {
+    "nombre": "Evolución de los Fondos de Pensiones por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1208-2": {
+    "nombre": "Aportes Voluntarios",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1217-02": {
+    "nombre": "Oferta Privada Dirigida a las Carteras Administradas",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1359": {
+    "nombre": "Valor Cuota por AFP y Tipo de Fondo",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1219-0": {
+    "nombre": "Rentabilidad Acumulada y Anualizada del Fondo Tipo 0 por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1220-1": {
+    "nombre": "Rentabilidad Acumulada y Anualizada del Fondo Tipo 1 por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1360": {
+    "nombre": "Rentabilidad Acumulada y Anualizada del Fondo Tipo 2 por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1220-2": {
+    "nombre": "Rentabilidad Acumulada y Anualizada del Fondo Tipo 3 por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1222-2": {
+    "nombre": "Ranking de Rentabilidad Ajustada por Riesgo según Tipo de Fondo y AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1340": {
+    "nombre": "Rentabilidad Neta de los Aportes Voluntarios Con Fin Previsional por Tipo de Fondo y AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1341": {
+    "nombre": "Rentabilidad Neta de los Aportes Voluntarios Sin Fin Previsional por Tipo de Fondo y AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1380": {
+    "nombre": "Personas que reciben prestaciones del Sistema Privado de Pensiones",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1381": {
+    "nombre": "Pensionistas y Retiros por Jubilación",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1385": {
+    "nombre": "Pensionistas de Invalidez",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1382": {
+    "nombre": "Pensionistas de Sobrevivencia",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1383": {
+    "nombre": "Retiros para compra de primer inmueble",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1322": {
+    "nombre": "Tasa de Interés Técnico para el Cálculo de Pensiones bajo Retiro Programado",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1364": {
+    "nombre": "Estado de Situación Financiera y Estado de Resultados por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1323": {
+    "nombre": "Indicadores de las AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1232": {
+    "nombre": "Comisiones por la Administración de Aportes Obligatorios y Primas por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1337": {
+    "nombre": "Comisiones por la Administración de Aportes Voluntarios por AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1324": {
+    "nombre": "Número de Promotores y Distribución de Oficinas por Zona Geográfica",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1227": {
+    "nombre": "Composición Accionaria de las AFP",
+    "p": 31,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Mensual",
+    "formato": "XLS"
+  },
+  "FP-1336-01": {
+    "nombre": "Boletín-Semana 1",
+    "p": 33,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Semanal",
+    "formato": "XLS"
+  },
+  "FP-1336-02": {
+    "nombre": "Boletín-Semana 2",
+    "p": 33,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Semanal",
+    "formato": "XLS"
+  },
+  "FP-1336-03": {
+    "nombre": "Boletín-Semana 3",
+    "p": 33,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Semanal",
+    "formato": "XLS"
+  },
+  "FP-1336-04": {
+    "nombre": "Boletín-Semana 4",
+    "p": 33,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Semanal",
+    "formato": "XLS"
+  },
+  "FP-1336-05": {
+    "nombre": "Boletín-Semana 5",
+    "p": 33,
+    "seccion": "afp",
+    "subseccion": "AFP Boletín Semanal",
+    "formato": "XLS"
+  },
+  "FP-1101": {
+    "nombre": "Evolución del Sistema Privado de Pensiones",
+    "p": 34,
+    "seccion": "afp",
+    "subseccion": "Evolución SPP",
+    "formato": "XLS"
+  },
+  "FP-1342": {
+    "nombre": "Nota Metodológica",
+    "p": 35,
+    "seccion": "afp",
+    "subseccion": "Carpeta SPP",
+    "formato": "PDF"
+  },
+  "FP-1339": {
+    "nombre": "Carpeta de Información del Sistema Privado de Pensiones",
+    "p": 35,
+    "seccion": "afp",
+    "subseccion": "Carpeta SPP",
+    "formato": "PDF"
+  },
+  "FP-120101": {
+    "nombre": "Afiliación y Traspasos (Desde 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-121201": {
+    "nombre": "Aportes y Bono de Reconocimiento (Desde 1993s)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-121401": {
+    "nombre": "Inversiones y Rentabilidad (Desde 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-130701": {
+    "nombre": "Beneficios (Desde 2001)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-130702": {
+    "nombre": "Comisiones y Primas de Seguro (Desde 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-130706": {
+    "nombre": "Valores cuota (Desde 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220517": {
+    "nombre": "AFP HORIZONTE",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-2205181": {
+    "nombre": "PRIMA AFP",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220515": {
+    "nombre": "PROFUTURO AFP",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220516": {
+    "nombre": "AFP INTEGRA",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220518": {
+    "nombre": "AFP UNION VIDA",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220529": {
+    "nombre": "HABITAT",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-240102": {
+    "nombre": "Estados Financieros e Indicadores (Desde 1997)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220930": {
+    "nombre": "Valores cuota ajustados vigentes entre Agosto 1993 y Setiembre 2022 (Oficio Múltiple N° 19507-2006-SBS)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220931": {
+    "nombre": "Valores cuota ajustados vigentes entre Octubre 2022 y Diciembre 2023 (Circular N° AFP-180-2022)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220932": {
+    "nombre": "Valores cuota (desde Agosto 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "B-220935": {
+    "nombre": "Valores Cuota (Desde 1993)",
+    "p": 36,
+    "seccion": "afp",
+    "subseccion": "AFP Horizonte Histórico",
+    "formato": "XLS"
+  },
+  "FP-1327": {
+    "nombre": "Afiliación y Traspasos",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1328": {
+    "nombre": "Aportes y Bono de Reconocimiento",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1329": {
+    "nombre": "Inversiones y Rentabilidad",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1330": {
+    "nombre": "Beneficios",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1331": {
+    "nombre": "Administradoras Privadas de Fondos de Pensiones",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1230": {
+    "nombre": "Glosario de Términos",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1299": {
+    "nombre": "Glosario de Indicadores",
+    "p": 37,
+    "seccion": "afp",
+    "subseccion": "AFP Otros Indicadores",
+    "formato": "XLS"
+  },
+  "FP-1233": {
+    "nombre": "Principales Variables del SPP",
+    "p": 38,
+    "seccion": "afp",
+    "subseccion": "AFP Variables Principales",
+    "formato": "XLS"
+  },
+  "FP-129801": {
+    "nombre": "Acciones disponibles para la negociación o Float",
+    "p": 40,
+    "seccion": "afp",
+    "subseccion": "AFP Histórico",
+    "formato": "XLS"
+  }
+}
